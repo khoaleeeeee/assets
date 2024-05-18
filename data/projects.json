@@ -3,7 +3,7 @@
     "title": "NoteHub",
     "startDate": "January 2024",
     "endDate": "May 2024",
-    "description": "A robust note-taking application featuring Google OAuth 2.0 for secure authentication, a vim-inspired interface for efficient navigation, and auto-suggestions powered by an OpenAI model. I currently use it for my daily notes.",
+    "description": "A robust note-taking application featuring Google OAuth 2.0 for secure authentication, a vim-inspired interface for efficient navigation, and auto-suggestions powered by an OpenAI model. I currently use it for my daily note taking.",
     "tags": [
       "Svelte",
       "TailwindCSS",
