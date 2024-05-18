@@ -7,6 +7,7 @@
     "location": "San Jose, CA",
     "startDate": "June 2023",
     "endDate": "Present",
+    "logo": "https://raw.githubusercontent.com/khoaleeeeee/assets/main/images/ScreenBeamLogo.png",
     "description": [
       "Collaborating in developing a district-wide IT management dashboard using Svelte, streamlining administrative and tracking functions.",
       "Designed and supported a Node.js server setup, integrating HTTP and WebSocket for scalable, real-time communications.",
@@ -38,6 +39,7 @@
     "location": "San Jose, CA",
     "startDate": "September 2022",
     "endDate": "December 2022",
+    "logo": "https://raw.githubusercontent.com/khoaleeeeee/assets/main/images/ScreenBeamLogo.png",
     "description": [
       "Spearheaded the integration of OneDrive for file download functionality, enabling seamless file access and import into the system, significantly enhancing user experience.",
       "Implemented Microsoft OAuth 2.0 authentication, optimizing the application's security and access flow.",
