@@ -9,7 +9,7 @@
       "TailwindCSS",
       "JavaScript"
     ],
-    "imageUrl": "https://via.placeholder.com/300",
+    "imageUrl": "https://raw.githubusercontent.com/khoaleeeeee/assets/main/images/NoteHub-screenshot.png",
     "githubUrl": "https://github.com/your-repo",
     "demoUrl": "https://notehub.khoadev.com"
   },
@@ -23,7 +23,7 @@
       "CSS",
       "Node.js"
     ],
-    "imageUrl": "https://raw.githubusercontent.com/khoaleeeeee/assets/main/images/NoteHub-screenshot.png",
+    "imageUrl": "https://via.placeholder.com/300",
     "githubUrl": "https://github.com/another-repo",
     "demoUrl": "https://another-demo.com"
   }
