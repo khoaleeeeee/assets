@@ -1,0 +1,75 @@
+[
+  {
+    "company": "ScreenBeam Inc.",
+    "theme": "#13294B",
+    "title": "Full-stack Software Engineer",
+    "companyColor": "#13294B",
+    "location": "San Jose, CA",
+    "startDate": "June 2023",
+    "endDate": "Present",
+    "description": [
+      "Collaborating in developing a district-wide IT management dashboard using Svelte, streamlining administrative and tracking functions.",
+      "Designed and supported a Node.js server setup, integrating HTTP and WebSocket for scalable, real-time communications.",
+      "Built a Teacher Portal with React and Node.js; boosted page performance by 30% through a batch data processing queue.",
+      "Expanded system capacity to handle over 100,000 users, maintaining high availability and optimal performance.",
+      "Reduced server costs by 40% by switching from WebSocket to peer-to-peer WebRTC, reducing maintenance overhead."
+    ],
+    "achievements": [
+      "Best of Show - AV Technology Magazine",
+      "Best of Show - Tech & Learning Magazine"
+    ],
+    "technologies": [
+      "React",
+      "Linux",
+      "Node.js",
+      "Svelte",
+      "WebRTC",
+      "WebSocket",
+      "Docker",
+      "AWS",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "company": "ScreenBeam Inc.",
+    "theme": "#13294B",
+    "title": "Software Engineer Intern",
+    "companyColor": "#13294B",
+    "location": "San Jose, CA",
+    "startDate": "September 2022",
+    "endDate": "December 2022",
+    "description": [
+      "Spearheaded the integration of OneDrive for file download functionality, enabling seamless file access and import into the system, significantly enhancing user experience.",
+      "Implemented Microsoft OAuth 2.0 authentication, optimizing the application's security and access flow.",
+      "Developed and executed unit tests using Mocha to ensure the reliability and robustness of server modules.",
+      "Conducted server performance testing using k6, contributing to the system's scalability and efficiency."
+    ],
+    "technologies": [
+      "Node.js",
+      "OAuth 2.0",
+      "Mocha",
+      "k6",
+      "OneDrive"
+    ]
+  },
+  {
+    "company": "Dataships",
+    "theme": "white",
+    "title": "Front-End Engineer Intern",
+    "companyColor": "#10A5FF",
+    "location": "Dublin, Ireland",
+    "startDate": "June 2022",
+    "endDate": "September 2022",
+    "logo": "https://content.partnerpage.io/eyJidWNrZXQiOiJwYXJ0bmVycGFnZS5wcm9kIiwia2V5IjoibWVkaWEvY29udGFjdF9pbWFnZXMvYWY1MDNhMWUtMmZlYy00ZjM2LWE0NTMtYzQ3ODVkNjNjNWUyL2UxMWI5OWYyLTI5ZjctNGRhMC04OGJmLTc5OGI2OWE1ZDY4My5wbmciLCJlZGl0cyI6eyJ0b0Zvcm1hdCI6IndlYnAiLCJyZXNpemUiOnsiZml0IjoiY29udGFpbiIsImJhY2tncm91bmQiOnsiciI6MjU1LCJnIjoyNTUsImIiOjI1NSwiYWxwaGEiOjB9fX19",
+    "description": [
+      "Developed and maintained privacy center’s components for company’s website using React, HTML, CSS, and Bootstrap, resulting in improved user experience and compliance with privacy regulations.",
+      "Conducted thorough testing and debugging to ensure the privacy center functioned correctly and met performance standards."
+    ],
+    "technologies": [
+      "React",
+      "HTML",
+      "CSS",
+      "Bootstrap"
+    ]
+  }
+]

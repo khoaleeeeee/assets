@@ -1,0 +1,30 @@
+[
+  {
+    "title": "NoteHub",
+    "startDate": "January 2024",
+    "endDate": "May 2024",
+    "description": "This is a brief description of the awesome project. It does many cool things using cutting-edge technology.",
+    "tags": [
+      "Svelte",
+      "TailwindCSS",
+      "JavaScript"
+    ],
+    "imageUrl": "https://via.placeholder.com/300",
+    "githubUrl": "https://github.com/your-repo",
+    "demoUrl": "https://notehub.khoadev.com"
+  },
+  {
+    "title": "Another Cool Project",
+    "startDate": "January 2024",
+    "endDate": "May 2024",
+    "description": "This project is another example of innovative work with amazing features.",
+    "tags": [
+      "HTML",
+      "CSS",
+      "Node.js"
+    ],
+    "imageUrl": "https://via.placeholder.com/300",
+    "githubUrl": "https://github.com/another-repo",
+    "demoUrl": "https://another-demo.com"
+  }
+]
