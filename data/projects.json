@@ -3,14 +3,18 @@
     "title": "NoteHub",
     "startDate": "January 2024",
     "endDate": "May 2024",
-    "description": "This is a brief description of the awesome project. It does many cool things using cutting-edge technology.",
+    "description": "A robust note-taking application featuring Google OAuth 2.0 for secure authentication, a vim-inspired interface for efficient navigation, and auto-suggestions powered by an OpenAI model. I currently use it for my daily notes.",
     "tags": [
       "Svelte",
       "TailwindCSS",
-      "JavaScript"
+      "JavaScript",
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "AWS"
     ],
     "imageUrl": "https://raw.githubusercontent.com/khoaleeeeee/assets/main/images/NoteHub-screenshot.png",
-    "githubUrl": "https://github.com/your-repo",
+    "githubUrl": "https://github.com/khoaleeeeee/simple-note-frontend",
     "demoUrl": "https://notehub.khoadev.com"
   },
   {
