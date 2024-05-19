@@ -1,0 +1,76 @@
+{
+  "contact": {
+    "name": "Dang Khoa Le",
+    "phone": "+(408)-455-3380",
+    "email": "ledangkhoahay@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/dangkle/"
+  },
+  "experiences": [
+    {
+      "title": "Software Engineer Intern",
+      "company": "ScreenBeam Inc.",
+      "period": "Sept 2022 - Dec 2022",
+      "details": [
+        "Spearheaded the integration of OneDrive for file download functionality, enabling seamless file access and import into the system, significantly enhancing user experience.",
+        "Implemented Microsoft OAuth 2.0 authentication, optimizing the application's security and access flow.",
+        "Developed and executed unit tests using Mocha to ensure the reliability and robustness of server modules.",
+        "Conducted server performance testing using k6, contributing to the system's scalability and efficiency."
+      ]
+    },
+    {
+      "title": "Full-Stack Software Engineer",
+      "company": "ScreenBeam Inc.",
+      "period": "June 2023 - present",
+      "details": [
+        "Collaborated with a team to develop a district-wide IT management dashboard using Svelte, streamlining administrative and tracking functions.",
+        "Designed and supported a Node.js server setup, integrating HTTP and WebSocket for scalable, real-time communications.",
+        "Built a Teacher Portal with React and Node.js; boosted page performance by 30% through a batch data processing queue.",
+        "Expanded system capacity to handle over 100,000 users, maintaining high availability and optimal performance.",
+        "Reduced server costs by 40% by switching from WebSocket to peer-to-peer WebRTC, reducing maintenance overhead.",
+        "Achievement: 'Best of Show' awards from AV Technology and Tech & Learning Magazines for pivotal contributions to ScreenBeam FLEX and ScreenBeam 1000 EDU Gen 2, recognized for driving innovation in wireless presentation technology."
+      ]
+    }
+  ],
+  "skills": [
+    "JavaScript (ES6+)",
+    "HTML5",
+    "CSS3",
+    "Python",
+    "C/C++",
+    "React",
+    "Svelte",
+    "Node.js",
+    "Express.js",
+    "VueJS",
+    "Responsive Design",
+    "Bootstrap",
+    "State Management",
+    "Hooks",
+    "Shell scripting",
+    "command-line operations",
+    "file system",
+    "RESTful API Development",
+    "WebSocket",
+    "WebRTC",
+    "Load Balancer",
+    "SQL",
+    "Postgres",
+    "MongoDB",
+    "Git",
+    "GitHub",
+    "GitLab",
+    "Visual Studio Code",
+    "Vim",
+    "Jest",
+    "Mocha",
+    "Chrome DevTools",
+    "Simulation",
+    "Heroku",
+    "AWS"
+  ],
+  "education": {
+    "degree": "Bachelor of Science, Computer Science",
+    "institution": "University of California Santa Cruz",
+    "year": "2023"
+  }
+}
