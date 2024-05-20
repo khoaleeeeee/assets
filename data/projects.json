@@ -16,19 +16,5 @@
     "imageUrl": "https://raw.githubusercontent.com/khoaleeeeee/assets/main/images/NoteHub-screenshot.png",
     "githubUrl": "https://github.com/khoaleeeeee/simple-note-frontend",
     "demoUrl": "https://notehub.khoadev.com"
-  },
-  {
-    "title": "Another Cool Project",
-    "startDate": "January 2024",
-    "endDate": "May 2024",
-    "description": "This project is another example of innovative work with amazing features.",
-    "tags": [
-      "HTML",
-      "CSS",
-      "Node.js"
-    ],
-    "imageUrl": "https://via.placeholder.com/300",
-    "githubUrl": "https://github.com/another-repo",
-    "demoUrl": "https://another-demo.com"
   }
 ]
