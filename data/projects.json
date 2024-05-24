@@ -16,5 +16,21 @@
     "imageUrl": "https://raw.githubusercontent.com/khoaleeeeee/assets/main/images/NoteHub-screenshot.png",
     "githubUrl": "https://github.com/khoaleeeeee/simple-note-frontend",
     "demoUrl": "https://notehub.khoadev.com"
+  },
+  {
+    "title": "Portfolio v2.0",
+    "startDate": "September 2023",
+    "endDate": "October 2024",
+    "description": "The portfolio you are currently viewing! Crafted from my own inspiration, it is built with Svelte and TailwindCSS, and hosted on GitHub Pages.",
+    "tags": [
+      "Svelte",
+      "TailwindCSS",
+      "JavaScript",
+      "CI/CD",
+      "GitHub Pages"
+    ],
+    "imageUrl": "https://raw.githubusercontent.com/khoaleeeeee/assets/main/images/portfolio-screenshot.png",
+    "githubUrl": "https://github.com/khoaleeeeee/portfolio",
+    "demoUrl": "https://khoadev.com"
   }
 ]
