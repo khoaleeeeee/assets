@@ -20,7 +20,7 @@
   {
     "title": "Portfolio v2.0",
     "startDate": "September 2023",
-    "endDate": "October 2024",
+    "endDate": "October 2023",
     "description": "The portfolio you are currently viewing! Crafted from my own inspiration, it is built with Svelte and TailwindCSS, and hosted on GitHub Pages.",
     "tags": [
       "Svelte",
